@@ -1,5 +1,5 @@
 # pure-gulp-bootstrap4-starter
-# Starter template with Gulp, Bootstrap 4, jquery 3.2.1, & FontAwesome 4.7.0, and jade page generator
+# Starter template with Gulp, Bootstrap 4 sass, jquery 3.2.1, & FontAwesome 4.7.0, and jade page generator
 
 ## Pre-requisites
 1. install node.js
