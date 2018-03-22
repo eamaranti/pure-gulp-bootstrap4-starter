@@ -17,6 +17,7 @@ var config = {
 gulp.task('icons', function() {
     return gulp.src([
         config.nodeDir + '/font-awesome/fonts/**.*',
+        config.nodeDir + '/mdi/fonts/**.*'
     ])
         .pipe(gulp.dest('./public/fonts'));
 });
