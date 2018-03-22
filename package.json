@@ -14,5 +14,8 @@
     "popper.js": "^1.12.2",
     "sass-module-importer": "^1.4.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "bootswatch": "^4.0.0",
+    "mdi": "^2.1.99"
+  }
 }
