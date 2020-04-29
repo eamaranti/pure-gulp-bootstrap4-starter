@@ -9,7 +9,7 @@
     "gulp-notify": "^2.2.0",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.4",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.12.2",
     "sass-module-importer": "^1.4.0"
   },
